@@ -8,7 +8,7 @@ An simple example of application for search books into list using Node.js
 
     `git clone git@github.com:<user>/node-search-books.git `
 
-- In terminal on roor directory execute the folow command
+- In terminal on root directory execute the follow command
 
     `npm install`  
 
